@@ -8,8 +8,6 @@ This project is a demonstration of a bootcamp website, featuring a mock enrollme
 
 ![Website Screenshot](img/showcase.png)
 ![Website Screenshot](img/modal.png)
-![Website Screenshot](img/categories.png)
-![Website Screenshot](img/Boxes.png)
 
 ## How to Use
 
@@ -28,3 +26,4 @@ To set up the project locally:
 
    ```sh
    git clone https://github.com/your-username/sample-bootcamp-website.git
+   ```
